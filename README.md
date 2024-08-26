@@ -28,3 +28,9 @@ Git is the most common Version Control System. It is open-sourced and free, main
 
 # f. What does git diff do?
 git diff provides additional details about the changes made. It compares our current files (code in the working directory) to what is in the staging area.
+
+# g. What is the main branch?
+main branch (sometimes called the master branch) is the name provided by GitHub to the default branch. This default branch is supposed to be used for creating new branches and all final changes are normally merged into this main branch
+
+# h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+Pushing changes directly to the main branch depends on the context of a project. Although this is technically possible, it is not always recommended, especially in collaborative or large projects. main branch is used to store the final code used in the production of the system we are developing. Therefore, during the development process and collaboration, it is not recommended to push changes directly into the main branch.
