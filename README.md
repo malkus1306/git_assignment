@@ -22,3 +22,9 @@ Pull request is a tool to merge changes from one branch into another before thes
 5. In the area "Manage access" hit the button "Add people"
 6. Provide the username (his/her account name in GitHub) of the person you plan to collaborate and select the role "Write"
 7. Hit the button "Invite"
+
+# e. What is the difference between git and GitHub?
+Git is the most common Version Control System. It is open-sourced and free, mainly installed locally to track changes made to files. GitHub is a commercial project (however, with some functionality available for free) dedicated to storing, sharing and working with other people to develop code.
+
+# f. What does git diff do?
+git diff provides additional details about the changes made. It compares our current files (code in the working directory) to what is in the staging area.
